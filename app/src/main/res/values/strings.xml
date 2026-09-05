@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Semana3</string>
+
+    <string name="titulo_app">Registro de Productos</string>
+
+    <string name="label_nombre">Nombre</string>
+    <string name="label_apellido">Apellido</string>
+    <string name="hint_nombre">Ingresa el nombre</string>
+    <string name="hint_apellido">Ingresa el apellido</string>
+
+    <string name="boton_agregar">Agregar registro</string>
+    <string name="boton_limpiar">Limpiar tabla</string>
+
+    <string name="subtitulo_tabla">Registros ingresados</string>
+    <string name="col_id">ID</string>
+    <string name="col_nombre">Nombre</string>
+    <string name="col_apellido">Apellido</string>
+
+    <string name="error_campos_vacios">Completa nombre y apellido antes de agregar</string>
+    <string name="aviso_tabla_vacia">Tabla limpiada</string>
+</resources>
